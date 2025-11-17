@@ -10,7 +10,7 @@ public class Factorial_Of_Number {
     long factorial_a;
 
     public void inputAndCalculate() {
-        System.out.print("\nEnter New number:");
+        System.out.print("\nNEW NEW:");
         int buff_a = sc.nextInt();
         setA(buff_a);
 
